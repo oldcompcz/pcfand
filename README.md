@@ -27,3 +27,7 @@ PC FAND byl vyvíjen a překládán do binárního tvaru pomocí vývojového pr
 
 PC FAND je uvolněn pod MIT licencí.
 Copyright (c) 1990 - 2018 ALIS spol. s r.o. Česká Lípa
+
+## Wiki
+
+Další informace naleznete na [Wiki stránkách projektu](https://github.com/oldcompcz/pcfand/wiki).
